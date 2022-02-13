@@ -2,7 +2,7 @@
 
 ## I'am Fabian 
 
-[Linkedln] (https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
+![Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
 
 <!--
 **FabianGarciaXY/FabianGarciaXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
