@@ -1,19 +1,22 @@
 ### Hi there 👋
 
-## I'am Fabian 
+***I'am Fabian, student of Cumputer Systems engineering & I love programming.***
+*I'm pursuing to become a software developer so currently I'm working on the **Odin Project** projects to gain knowledge and experience throught doing things
+
+- 🌱 I’m currently learning react
+
+
+```
+  {
+    name: 'Fabian',
+    pronouns: ['He', 'Him', 'Them'], 
+    age: 23,
+    from: Mexico,
+    code: ['JavaScript', 'Python', 'HTML', 'CSS', ]
+  }
+```
+
+Here are some of my social networks:
 
 [Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
-<!--
-**FabianGarciaXY/FabianGarciaXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/Fbin29745791)
