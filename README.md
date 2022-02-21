@@ -16,7 +16,6 @@
   }
 ```
 
-Here are some of my social networks:
-
-[Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
-[Twitter](https://twitter.com/Fbin29745791)
+How to reach me:
+-[Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
+-[Twitter](https://twitter.com/Fbin29745791)
