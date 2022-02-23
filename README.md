@@ -5,16 +5,16 @@
 *I'm pursuing to become a software developer so currently I'm working on the **Odin Project** curriculum projects to gain knowledge and experience throught doing things*
 
 
-- 🌱 I’m currently learning react @icn-camera
+- 🌱 I’m currently learning React
 
 
 ```
   {
-    name: 'Fabian',
-    pronouns: ['He', 'Him', 'Them'], 
-    age: 23,
-    from: 'Mexico',
-    code: ['JavaScript', 'Python', 'HTML', 'CSS', ]
+    "name": 'Fabian',
+    "pronouns": ['He', 'Him', 'Them'], 
+    "age": 23,
+    "from": 'Mexico',
+    "code": ['JavaScript', 'Python', 'HTML', 'CSS', ]
   }
 ```
 
