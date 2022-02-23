@@ -13,7 +13,7 @@
     name: 'Fabian',
     pronouns: ['He', 'Him', 'Them'], 
     age: 23,
-    from: Mexico,
+    from: 'Mexico',
     code: ['JavaScript', 'Python', 'HTML', 'CSS', ]
   }
 ```
