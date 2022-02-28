@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React
 
 
-```JSON
+```JS
   {
     "name": 'Fabian',
     "pronouns": ['He', 'Him', 'Them'], 
