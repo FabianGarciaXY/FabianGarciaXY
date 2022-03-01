@@ -5,7 +5,7 @@
 *I'm pursuing to become a software developer so currently I'm working on the **Odin Project** curriculum projects to gain knowledge and experience throught doing things*
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m learning React currently
 
 
 ```JavaScript
