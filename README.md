@@ -8,7 +8,8 @@
 - 🌱 I’m learning React currently
 
 
-```JS
+```Java
+  {
     "name": 'Fabian',
     "pronouns": ['He', 'Him', 'Them'], 
     "age": 23,
