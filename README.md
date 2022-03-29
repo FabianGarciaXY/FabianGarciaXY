@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-***I'm Fabian, I'm student of Cumputer Systems Engineering & I love programming.***
+***I'm Fabian, I'm student of Computer Systems Engineering & I love programming.***
 
 *I'm pursuing to become a software developer so currently I'm working on the **Odin Project** curriculum projects to gain knowledge and experience throught doing things*
 
