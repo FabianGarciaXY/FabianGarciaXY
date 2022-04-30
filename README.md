@@ -3,7 +3,20 @@
  
 ***About Me***
 
-*I'm pursuing to become a software developer so currently I'm working on the **Odin Project** curriculum projects to gain knowledge and experience throught doing things*
+*I'm a self-tought software developer from Mexico and I am passionate about coding in languajes like JS and Python. I'm enrolled in a engineering in Computer Systems which has provided me knowledge to desing systems with an analytical approach.*
+
+*I'm interested also in software testing because I believe quality is one of the main properties of a product.*
+
+**Technologies:**
+* Javascript
+* Node
+* Express
+* Jest
+* Cypress
+* Python
+* HTML
+* CSS
+
 
 ```JS
 const Fabian = {
@@ -23,7 +36,9 @@ const Fabian = {
 
 [![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=FabianGarciaXY&theme=react-dark)](https://github.com/FabianGarciaXY/github-readme-activity-graph)
 
- 
+### **Currenty I'm learning Express JS in order to develop backend apps**
+![](./happy-pleased.gif)
+
  ---
 How to reach me:
 * [Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
