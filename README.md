@@ -21,12 +21,10 @@ const Fabian = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGarciaXY&&layout=compact)](https://github.com/FabianGarciaXY/github-readme-stats)
 
 
-
 [![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=FabianGarciaXY&theme=react-dark)](https://github.com/FabianGarciaXY/github-readme-activity-graph)
 
-
-
-  ---
+ 
+ ---
 How to reach me:
 * [Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
 * [Twitter](https://twitter.com/Fbin29745791)
