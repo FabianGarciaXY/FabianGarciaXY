@@ -16,9 +16,15 @@ const Fabian = {
   }
 ```
 
-  [![FabianGarciaXY GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianGarciaXY&count_private=true&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGarciaXY)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![FabianGarciaXY GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianGarciaXY&count_private=true&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/FabianGarciaXY/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGarciaXY&&layout=compact)](https://github.com/FabianGarciaXY/github-readme-stats)
+
+
+
+[![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=FabianGarciaXY&theme=react-dark)](https://github.com/FabianGarciaXY/github-readme-activity-graph)
+
+
 
   ---
 How to reach me:
