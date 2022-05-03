@@ -1,45 +1,27 @@
-## Hi there 👋 I'm Fabian
- 
- 
-***About Me***
 
-*I'm a self-tought software developer from Mexico and I am passionate about coding in languajes like JS and Python. I'm enrolled in a engineering in Computer Systems which has provided me knowledge to desing systems with an analytical approach.*
+# Hi 👋 My name is Fabian Ga'Hezz
 
-*I'm interested also in software testing because I believe quality is one of the main properties of a product.*
+### Self-tought dev.
 
-**Technologies:**
-* Javascript
-* Node
-* Express
-* Jest
-* Cypress
-* Python
-* HTML
-* CSS
+I'm a self-tought software developer from Mexico and I am passionate about coding in languajes like JS and Python. I'm enrolled in a engineering in Computer Systems which has provided me knowledge to desing systems with an analytical approach. I'm interested also in software testing because I believe quality is one of the main properties of a product.
+
+* 🌍  I'm based in Nuevo Leon, Mex.
+* ✉️  You can contact me at [fabyan\_0798@hotmail.com](mailto:fabyan_0798@hotmail.com)
+* 🧠  I'm learning Express JS.
+* 🤝  I'm open to collaborating on any projects.
+
+### Skills
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></p>
 
 
-```JS
-const Fabian = {
-    name: 'Fabian',
-    pronouns: ['He', 'Him', 'Them'], 
-    age: 23,
-    from: 'Mexico',
-    code: ['JavaScript', 'Node', 'Python', 'Typescript', 'HTML', 'CSS', ],
-    frameworks: ['Express', 'vue', 'Cypress']
-  }
-```
+<a href="https://github.com/FabianGarciaXY" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGarciaXY&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>My GitHub Stats</b>
 
- [![FabianGarciaXY GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianGarciaXY&count_private=true&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/FabianGarciaXY/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGarciaXY&&layout=compact)](https://github.com/FabianGarciaXY/github-readme-stats)
+<a href="http://www.github.com/FabianGarciaXY"><img src="https://github-readme-stats.vercel.app/api?username=FabianGarciaXY&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FabianGarciaXY's GitHub stats" /></a>
 
+<a href="http://www.github.com/FabianGarciaXY"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FabianGarciaXY&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=FabianGarciaXY&theme=react-dark)](https://github.com/FabianGarciaXY/github-readme-activity-graph)
+<a href="http://www.github.com/FabianGarciaXY"><img src="https://activity-graph.herokuapp.com/graph?username=FabianGarciaXY&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### **Currenty I'm learning Express JS in order to develop backend apps**
-![](./happy-pleased.gif)
-
- ---
-How to reach me:
-* [Linkedln](https://www.linkedin.com/in/fabi%C3%A1n-hern%C3%A1ndez-garc%C3%ADa-44067920a/)
-* [Twitter](https://twitter.com/Fbin29745791)
+### Socials<p align="left"> <a href="https://www.github.com/FabianGarciaXY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fabyangarcia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fabyanGaHezz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
