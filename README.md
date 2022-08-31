@@ -38,6 +38,8 @@ if __name__ == '__main__':
 </div>
 </p>
 
+<div align='center'><img height='400' src='https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif'></div>
+
 <div align='center'> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianGarciaXY&layout=compact&&langs_count=10" width="400" height="300">
 </div>
